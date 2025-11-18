@@ -2,7 +2,7 @@ import SingleTask from "./SingleTask";
 
 function TasksSection() {
   return (
-    <div className="mt-16  md:max-w-[60%] mx-auto  bg-[#008259] rounded-2xl  ">
+    <div className="mt-16  md:max-w-[900px] w-[90%] mx-auto  bg-[#008259] rounded-2xl  ">
       <div className="px-6 py-6 text-[16px] ">
         <p>My Tasks</p>
         <p>4 tasks • 1 completed</p>
