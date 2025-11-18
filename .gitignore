@@ -18,6 +18,3 @@ bun.lockb
 
 # IDE
 .vscode/
-
-# Backend
-backend/
