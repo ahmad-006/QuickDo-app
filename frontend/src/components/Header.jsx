@@ -6,10 +6,10 @@ function Header() {
         <img src={logo} alt="logo" className="w-32 " />
       </div>
       <div>
-        <button className="text-gray-400 text-xl hover:text-gray-800 hover:bg-gray-400 transition-all duration-300 rounded-[10px]  px-5 py-2">
+        <button className="text-gray-400 text-xl mr-2 font-medium hover:text-gray-800 hover:bg-gray-400 transition-all duration-300 rounded-[10px]  px-5 py-2">
           Login
         </button>
-        <button className="text-gray-100 text-xl hover:bg-[#026a4b] bg-[#007a55] transition-all duration-300 rounded-[10px] px-5 py-2">
+        <button className="text-gray-50 text-xl font-medium hover:bg-[#026a4b] bg-[#007a55] transition-all duration-300 rounded-[10px] px-5 py-2">
           Sign up
         </button>
       </div>
